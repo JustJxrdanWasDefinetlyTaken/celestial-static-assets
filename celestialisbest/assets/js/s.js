@@ -161,7 +161,7 @@ const presets = {
     title: "Clever | Portal",
     favicon: "https://clever.com/favicon.ico",
   },
-  nt: { title: "New Tab", favicon: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/newtab.png" },
+  nt: { title: "New Tab", favicon: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/newtab.png" },
 };
 
 function applyCloak() {
@@ -235,7 +235,7 @@ function switchCloak() {
     savedTitle = document.title;
     savedFavicon = document.getElementById("favicon")
       ? document.getElementById("favicon").href
-      : "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/logo.png";
+      : "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/logo.png";
 
     var currentTitle = localStorage.getItem("savedTitle");
     var currentFavicon = localStorage.getItem("savedFavicon");
@@ -257,7 +257,7 @@ function switchCloak() {
     );
   } else {
     document.title = "celestial.";
-    updateFavicon("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/logo.png");
+    updateFavicon("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/logo.png");
   }
 }
 
@@ -269,7 +269,7 @@ document.addEventListener("DOMContentLoaded", function () {
   if (stored === "true") {
     toggle.checked = true;
     document.title = "celestial.";
-    updateFavicon("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/logo.png");
+    updateFavicon("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/logo.png");
     document.addEventListener("visibilitychange", switchCloak);
   }
 
@@ -277,14 +277,14 @@ document.addEventListener("DOMContentLoaded", function () {
     if (toggle.checked) {
       localStorage.setItem("switchCloakOn", "true");
       document.title = "celestial.";
-      updateFavicon("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/logo.png");
+      updateFavicon("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/logo.png");
       document.addEventListener("visibilitychange", switchCloak);
     } else {
       localStorage.setItem("switchCloakOn", "false");
       document.removeEventListener("visibilitychange", switchCloak);
       document.title = localStorage.getItem("savedTitle") || "celestial.";
       updateFavicon(
-        localStorage.getItem("savedFavicon") || "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/logo.png"
+        localStorage.getItem("savedFavicon") || "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/logo.png"
       );
     }
   };

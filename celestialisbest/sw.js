@@ -4,7 +4,7 @@ importScripts(
 importScripts("./violet/violet.config.js")
 importScripts("./violet/violet.sw.js")
 importScripts("./scram/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js");
-importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/js/ww/workerware.js");
+importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/js/ww/workerware.js");
 importScripts("https://raw.githubusercontent.com/titaniumnetwork-dev/Pyrus/refs/heads/main/public/marketplace/adblock/index.js");
 
 const ww = new WorkerWare();

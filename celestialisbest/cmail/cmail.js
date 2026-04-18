@@ -7,8 +7,8 @@ document.write(`
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/logo-blackbg.png" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/css/home.css" />
+    <link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/logo-blackbg.png" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/css/home.css" />
     <meta name="Drew's Learning Academy">
     <meta content="Drew's Learning Academy | Edison, NJ" property="og:title">
     <meta
@@ -114,7 +114,7 @@ body[theme="eww"] .gridthing {
 <h1 id="titlething" style="font-weight:700;"></h1>
 </div>
 </body>
-<script src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/js/theme.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/js/theme.js"></script>
 </html>
     `)
 document.close();

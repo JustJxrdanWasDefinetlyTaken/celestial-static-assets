@@ -64,7 +64,7 @@ const scramjet = new ScramjetController({
 			naiiveRewriter: true,
 		},
 	},
-	prefix: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/scramjet/"
+	prefix: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/scramjet/"
 });
 scramjet.init();
 
@@ -170,7 +170,7 @@ export class Tab {
 		this.frame = document.createElement("iframe");
 		this.frame.setAttribute("class", "searchframe");
 		this.frame.setAttribute("title", "P-Frame");
-		this.frame.setAttribute("src", "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/tab.html");
+		this.frame.setAttribute("src", "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/tab.html");
 		this.frame.setAttribute("loading", "lazy");
 		this.frame.setAttribute("id", `frame-${tabCounter}`);
 		framesElement.appendChild(this.frame);
