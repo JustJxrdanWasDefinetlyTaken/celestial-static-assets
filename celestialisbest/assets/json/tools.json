@@ -1,337 +1,337 @@
 [
     {
 		"name": "Animetsu",
-        "img": "/celestialisbest/assets/img/tls/animetsu.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/animetsu.png",
 		"url": "https://animetsu.net",
         "categories": ["popular", "movies"]
 	},
     {
 		"name": "Youtube",
-        "img": "/celestialisbest/assets/img/tls/yt.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/yt.png",
 		"url": "https://www.youtube.com/?themerefresh=1",
         "categories": ["sm", "popular"]
 	},
     {
 		"name": "Gemini AI",
-        "img": "/celestialisbest/assets/img/tls/gemini.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/gemini.png",
 		"url": "https://gemini.google.com",
         "categories": ["popular", "ai"]
 	},
     {
 		"name": "Grok",
-        "img": "/celestialisbest/assets/img/tls/grok.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/grok.png",
 		"url": "https://grok.com",
         "categories": ["ai", "popular"]
 	},
     {
 		"name": "Cineby",
-        "img": "/celestialisbest/assets/img/tls/cineby.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/cineby.png",
 		"url": "https://www.cineby.sc/",
         "categories": ["popular", "movies"]
 	},
     {
 		"name": "Neal.fun",
-        "img": "/celestialisbest/assets/img/tls/nealfun.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/nealfun.png",
 		"url": "https://neal.fun",
         "categories": ["gamesites", "popular", "fun"]
 	},
     {
 		"name": "KBH Ga<span>me</span>s",
-        "img": "/celestialisbest/assets/img/tls/kbhgames.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/kbhgames.png",
 		"url": "https://kbhgames.com",
         "categories": ["fun", "gamesites"]
 	},
     {
 		"name": "Snokido",
-        "img": "/celestialisbest/assets/img/tls/snokido.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/snokido.png",
 		"url": "https://snokido.com",
         "categories": ["fun", "gamesites"]
 	},
     {
 		"name": "Xbox Cloud Gaming",
-        "img": "/celestialisbest/assets/img/tls/xcg.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/xcg.png",
 		"url": "https://www.xbox.com/en-us/play",
         "categories": ["cg", "gamesites"]
 	},
     {
 		"name": "Ge<span>for</span>ce Now",
-        "img": "/celestialisbest/assets/img/tls/gefn.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/gefn.png",
 		"url": "https://shorturl.at/uzh5G",
         "categories": ["cg", "gamesites"]
 	},
     {
 		"name": "Amazon Luna",
-        "img": "/celestialisbest/assets/img/tls/luna.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/luna.png",
 		"url": "https://luna.amazon.com",
         "categories": ["cg", "gamesites"]
 	},
     {
 		"name": "Now.gg/Nowgg.fun",
-        "img": "/celestialisbest/assets/img/tls/nggfun.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/nggfun.png",
 		"url": "https://nowgg.fun",
         "categories": ["cg", "gamesites"]
 	},
     {
 		"name": "Cool Math Ga<span>me</span>s",
-        "img": "/celestialisbest/assets/img/tls/cmg.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/cmg.png",
 		"url": "https://coolmathgames.com",
         "categories": ["gamesites"]
 	},
     {
 		"name": "Di<span>sc</span>ord",
-        "img": "/celestialisbest/assets/img/tls/dsc.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/dsc.png",
 		"url": "https://shorturl.at/sDr4V",
         "categories": ["sm", "popular"]
 	},
     {
 		"name": "Twitch",
-        "img": "/celestialisbest/assets/img/tls/twitch.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/twitch.png",
 		"url": "https://twitch.tv",
         "categories": ["sm", "movies", "popular"]
 	},
     {
 		"name": "Tiktok",
-        "img": "/celestialisbest/assets/img/tls/tiktok.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/tiktok.png",
 		"url": "https://tiktok.com",
         "categories": ["sm"]
 	},
     {
 		"name": "Chess.com",
-        "img": "/celestialisbest/assets/img/tls/chesscom.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/chesscom.png",
 		"url": "https://chess.com",
         "categories": ["fun"]
 	},
     {
 		"name": "Visual Studio Code",
-        "img": "/celestialisbest/assets/img/tls/vsc.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/vsc.png",
 		"url": "https://vscode.dev",
         "categories": ["misc"]
 	},
     {
 		"name": "Github",
-        "img": "/celestialisbest/assets/img/tls/gh.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/gh.png",
 		"url": "https://github.com",
         "categories": ["misc"]
 	},
     {
 		"name": "ESPN",
-        "img": "/celestialisbest/assets/img/tls/espn.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/espn.png",
 		"url": "https://espn.com",
         "categories": ["misc", "sm"]
 	},
     {
 		"name": "MaxPreps",
-        "img": "/celestialisbest/assets/img/tls/maxpreps.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/maxpreps.png",
 		"url": "https://maxpreps.com",
         "categories": ["misc"]
 	},
     {
 		"name": "Snapchat",
-        "img": "/celestialisbest/assets/img/tls/snap.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/snap.png",
 		"url": "https://web.snapchat.com",
         "categories": ["sm"]
 	},
     {
 		"name": "Instagram",
-        "img": "/celestialisbest/assets/img/tls/ig.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/ig.png",
 		"url": "https://instagram.com",
         "categories": ["sm", "popular"]
 	},
     {
 		"name": "Galaxy.click",
-        "img": "/celestialisbest/assets/img/tls/gc.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/gc.png",
 		"url": "https://galaxy.click",
         "categories": ["gamesites", "misc"]
 	},
     {
 		"name": "Sandboxels",
-        "img": "/celestialisbest/assets/img/tls/sbx.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/sbx.png",
 		"url": "https://sandboxels.r74n.com/",
         "categories": ["gamesites", "fun"]
 	},
     {
 		"name": "Crazyga<span>m</span>es",
-        "img": "/celestialisbest/assets/img/tls/crzygs.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/crzygs.png",
 		"url": "https://crazygames.com",
         "categories": ["gamesites"]
 	},
     {
 		"name": "Pixlr",
-        "img": "/celestialisbest/assets/img/tls/pixlr.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/pixlr.png",
 		"url": "https://pixlr.com",
         "categories": ["misc"]
 	},
     {
 		"name": "ZeroGPT",
-        "img": "/celestialisbest/assets/img/tls/zgpt.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/zgpt.png",
 		"url": "https://zerogpt.com",
         "categories": ["ai", "misc", "popular"]
 	},
     {
 		"name": "AI Humanizer",
-        "img": "/celestialisbest/assets/img/tls/grammarly.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/grammarly.png",
 		"url": "https://www.grammarly.com/ai-humanizer",
         "categories": ["ai", "misc", "popular"]
 	},
     {
 		"name": "Newgrounds",
-        "img": "/celestialisbest/assets/img/tls/newgrounds.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/newgrounds.png",
 		"url": "https://newgrounds.com",
         "categories": ["sm", "misc"]
 	},
     {
 		"name": "Invidious",
-        "img": "/celestialisbest/assets/img/tls/invidious.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/invidious.png",
 		"url": "https://inv.thepixora.com/feed/popular",
         "categories": ["sm", "popular"]
 	},
     {
 		"name": "Vercel",
-        "img": "/celestialisbest/assets/img/tls/vercel.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/vercel.png",
 		"url": "https://vercel.com",
         "categories": ["misc"]
 	},
     {
 		"name": "DuckDuckGo",
-        "img": "/celestialisbest/assets/img/tls/duckduckgo.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/duckduckgo.png",
 		"url": "https://duckduckgo.com",
         "categories": ["misc", "popular"]
 	},
     {
 		"name": "Crunchyroll",
-        "img": "/celestialisbest/assets/img/tls/crunchyroll.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/crunchyroll.png",
 		"url": "https://crunchyroll.com",
         "categories": ["movies"]
 	},
     {
 		"name": "Netflix",
-        "img": "/celestialisbest/assets/img/tls/netflix.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/netflix.png",
 		"url": "https://netflix.com",
         "categories": ["movies", "popular"]
 	},
     {
 		"name": "Youtube Music",
-        "img": "/celestialisbest/assets/img/tls/ytm.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/ytm.png",
 		"url": "https://music.youtube.com",
         "categories": ["music", "popular"]
 	},
     {
 		"name": "Soundcloud",
-        "img": "/celestialisbest/assets/img/tls/soundcloud.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/soundcloud.png",
 		"url": "https://soundcloud.com",
         "categories": ["music"]
 	},
     {
 		"name": "Streamex",
-        "img": "/celestialisbest/assets/img/tls/streamex.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/streamex.png",
 		"url": "https://streamex.net",
         "categories": ["movies", "popular"]
 	},
     {
 		"name": "Prescripts",
-        "img": "/celestialisbest/assets/img/tls/prescript.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/prescript.png",
 		"url": "https://prescript.neocities.org",
         "categories": ["misc"]
 	},
     {
 		"name": "ChatGPT",
-        "img": "/celestialisbest/assets/img/tls/chatgpt.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/chatgpt.png",
 		"url": "https://chatgpt.com",
         "categories": ["ai", "misc"]
 	},
     {
 		"name": "Duck.ai",
-        "img": "/celestialisbest/assets/img/tls/duck.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/duck.png",
 		"url": "https://duck.ai",
         "categories": ["ai", "misc", "popular"]
 	},
     {
 		"name": "MyInstants [soundboard]",
-        "img": "/celestialisbest/assets/img/tls/myinstants.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/myinstants.png",
 		"url": "https://myinstants.com",
         "categories": ["misc", "popular"]
 	},
     {
 		"name": "Fawa Sports Streaming",
-        "img": "/celestialisbest/assets/img/tls/fawa.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/fawa.png",
 		"url": "https://fawanews.sc",
         "categories": ["movies", "popular"]
 	},
     {
 		"name": "Atsumaru",
-        "img": "/celestialisbest/assets/img/tls/atsu.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/atsu.png",
 		"url": "https://atsu.moe",
         "categories": ["misc", "popular"]
 	},
     {
 		"name": "CrystalTube",
-        "img": "/celestialisbest/assets/img/tls/crystaltube.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/crystaltube.png",
 		"url": "https://yt.ghst.best",
         "categories": ["movies", "sm", "popular"]
 	},
     {
 		"name": "Musicthing.space",
-        "img": "/celestialisbest/assets/img/tls/musicthing.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/musicthing.png",
 		"url": "https://musicthing.space/music/",
         "categories": ["music", "popular"]
 	},
     {
 		"name": "Microsoft Teams",
-        "img": "/celestialisbest/assets/img/tls/teams.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/teams.png",
 		"url": "https://teams.microsoft.com/free",
         "categories": ["misc", "popular"]
 	},
     {
 		"name": "Facebook",
-        "img": "/celestialisbest/assets/img/tls/facebook.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/facebook.png",
 		"url": "https://facebook.com",
         "categories": ["sm", "popular"]
 	},
     {
 		"name": "Tubi",
-        "img": "/celestialisbest/assets/img/tls/tubi.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/tubi.png",
 		"url": "https://tubi.tv",
         "categories": ["movies", "popular"]
 	},
     {
 		"name": "Paramount+",
-        "img": "/celestialisbest/assets/img/tls/paramount.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/paramount.png",
 		"url": "https://paramountplus.com",
         "categories": ["movies", "popular"]
 	},
     {
 		"name": "Hulu",
-        "img": "/celestialisbest/assets/img/tls/hulu.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/hulu.png",
 		"url": "https://hulu.com",
         "categories": ["movies", "popular"]
 	},
     {
 		"name": "The Roku Channel",
-        "img": "/celestialisbest/assets/img/tls/roku.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/roku.png",
 		"url": "https://therokuchannel.roku.com",
         "categories": ["movies", "popular"]
 	},
     {
 		"name": "Blooket Hacks",
-        "img": "/celestialisbest/assets/img/tls/blooket.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/blooket.png",
 		"url": "https://blooketbot.schoolcheeats.net/",
         "categories": ["misc", "popular"]
 	},
     {
 		"name": "Gimkit Hacks",
-        "img": "/celestialisbest/assets/img/tls/gimkit.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/gimkit.png",
 		"url": "https://gim.villainsrule.xyz/join",
         "categories": ["misc", "popular"]
 	},
     {
 		"name": "Lovable",
-        "img": "/celestialisbest/assets/img/tls/lovable.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/tls/lovable.png",
 		"url": "https://lovable.dev",
         "categories": ["ai", "popular"]
 	},
     {
 		"name": "!! SUGGEST AN APP",
-        "img": "/celestialisbest/assets/img/gms/!!suggest.png",
+        "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/gms/!!suggest.png",
 		"url": "https://forms.gle/ELsciiPdpuofGk4v8",
         "categories": ["misc"]
 	}

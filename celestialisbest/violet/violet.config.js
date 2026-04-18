@@ -1,5 +1,5 @@
 self.__uv$config = {
-  prefix: "/celestialisbest/service/ultra/",
+  prefix: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/service/ultra/",
   encodeUrl: (str) => {
     if (!str) return str;
     return encodeURIComponent(str);
@@ -9,11 +9,11 @@ self.__uv$config = {
     return decodeURIComponent(str);
   },
   handler:
-    "/celestialisbest/violet/violet.handler.js",
+    "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/violet/violet.handler.js",
   client:
-    "/celestialisbest/violet/violet.client.js",
+    "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/violet/violet.client.js",
   bundle:
-    "/celestialisbest/violet/violet.bundle.js",
-  config: "/celestialisbest/violet.config.js",
-  sw: "/celestialisbest/violet/violet.sw.js",
+    "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/violet/violet.bundle.js",
+  config: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/violet.config.js",
+  sw: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/violet/violet.sw.js",
 }

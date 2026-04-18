@@ -4,7 +4,7 @@ var grid = document.querySelector(".gs");
 var search = document.querySelector(".textbook");
 var cat = document.querySelector("select");
 
-fetch("/celestialisbest/assets/json/tools.json")
+fetch("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/json/tools.json")
   .then(res => res.json())
   .then(games => {
     function showGames(list) {
@@ -13,8 +13,8 @@ fetch("/celestialisbest/assets/json/tools.json")
         var card = document.createElement("div");
         card.className = "card";
         card.onclick = () =>
-            location.href = `/celestialisbest/tab.html?autofill=${encodeURIComponent(g.url)}`;
-        card.innerHTML = `<div class="thumb" style="background-image:url('${g.img || "/celestialisbest/assets/img/placeholder.png"}')"></div><p>${g.name}</p>`;
+            location.href = `https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/tab.html?autofill=${encodeURIComponent(g.url)}`;
+        card.innerHTML = `<div class="thumb" style="background-image:url('${g.img || "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/placeholder.png"}')"></div><p>${g.name}</p>`;
         grid.appendChild(card);
       });
     }

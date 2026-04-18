@@ -8,9 +8,9 @@ document.write(`
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" type="image/png" href="/celestialisbest/assets/img/logo-blackbg.png" />
-  <link rel="stylesheet" href="/celestialisbest/assets/css/home.css" />
-  <link rel="stylesheet" href="/celestialisbest/assets/css/xtra.css" />
+  <link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/logo-blackbg.png" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/css/home.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/css/xtra.css" />
   <style>
   html, body {
     margin: 0;
@@ -149,28 +149,28 @@ body[theme="eww"] .gridthing {
 <div class="gradientthing" align="center">
 <h1>media menu</h1>
 <div class="row">
-<div class="menu-box" data-url="/celestialisbest/tab.html?autofill=https://app.apponfly.com/trial">
-<img src="/celestialisbest/assets/img/icns/comp.png" />
+<div class="menu-box" data-url="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/tab.html?autofill=https://app.apponfly.com/trial">
+<img src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/icns/comp.png" />
 <h2>access virtual machine</h2>
 <p>access our free virtual machine.</p>
 </div>
-<div class="menu-box" data-url="/celestialisbest/tab.html?autofill=https://musicthing.space/music/">
-<img src="/celestialisbest/assets/img/icns/music.png" />
+<div class="menu-box" data-url="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/tab.html?autofill=https://musicthing.space/music/">
+<img src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/icns/music.png" />
 <h2>listen to music</h2>
 <p>listen to your favorite songs.</p>
 </div>
-<div class="menu-box" data-url="/celestialisbest/tab.html?autofill=https://www.cineby.sc/">
-<img src="/celestialisbest/assets/img/icns/pop.png" />
+<div class="menu-box" data-url="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/tab.html?autofill=https://www.cineby.sc/">
+<img src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/icns/pop.png" />
 <h2>watch movies</h2>
 <p>access movies, for free, no charge.</p>
 </div>
-<div class="menu-box" data-url="/celestialisbest/tab.html?autofill=https://duck.ai">
-<img src="/celestialisbest/assets/img/icns/ai.png" />
+<div class="menu-box" data-url="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/tab.html?autofill=https://duck.ai">
+<img src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/icns/ai.png" />
 <h2>access AI</h2>
 <p>access AI with multiple models, no charge.</p>
 </div>
 <div class="menu-box unavailable">
-<img src="/celestialisbest/assets/img/icns/chat.png" />
+<img src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/img/icns/chat.png" />
 <h2>access chat</h2>
 <p>coming soon!</p>
 </div>
@@ -185,7 +185,7 @@ document.querySelectorAll(".menu-box").forEach(box => {
 });
 </script>
 </body>
-<script src="/celestialisbest/assets/js/theme.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/js/theme.js"></script>
 </html>
 `);
 document.close();

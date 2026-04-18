@@ -18,7 +18,7 @@ function showGames(list) {
   grid.innerHTML = "";
   const favorites = storage.get(FAVORITES_KEY, []);
   list.forEach((g) => {
-    // loop through all the games in /celestialisbest/assets/json/books.json
+    // loop through all the games in https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/json/books.json
     const isFavorited = favorites.includes(g.name);
     const heartPath = isFavorited ? HEART_FILLED : HEART_OUTLINE;
 
@@ -44,7 +44,7 @@ function showGames(list) {
         : (location.href =
             g.source === "local"
               ? g.url
-              : `/celestialisbest/tab.html?autofill=${encodeURIComponent(g.url)}`);
+              : `https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/tab.html?autofill=${encodeURIComponent(g.url)}`);
     card.innerHTML = cardHTML;
     grid.appendChild(card);
 
@@ -92,7 +92,7 @@ function toggleFavorite(gameName) {
 }
 
 // main game func
-fetch("/celestialisbest/assets/json/books.json")
+fetch("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/json/books.json")
   .then((res) => res.json())
   .then((games) => {
     const originalGames = [...games];
@@ -135,7 +135,7 @@ fetch("/celestialisbest/assets/json/books.json")
   });
 
 function rngGame() {
-  fetch("/celestialisbest/assets/json/books.json")
+  fetch("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/json/books.json")
     .then((res) => res.json())
     .then((games) => {
       const available = games.filter(
@@ -154,7 +154,7 @@ function rngGame() {
 }
 
 function gameCount() {
-  fetch("/celestialisbest/assets/json/books.json")
+  fetch("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/assets/json/books.json")
     .then((r) => r.json())
     .then((d) => {
       const input = document.querySelector(".textbook");

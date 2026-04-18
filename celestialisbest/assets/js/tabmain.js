@@ -2,7 +2,7 @@ import {
 	makeURL,
 	getProxied,
 	setProxy,
-} from "/celestialisbest/lithium.mjs"
+} from "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static@main/celestialisbest/lithium.mjs"
 
 // new tab
 // homepage
