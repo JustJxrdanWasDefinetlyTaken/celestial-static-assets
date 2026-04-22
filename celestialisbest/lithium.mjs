@@ -22,7 +22,7 @@ const connection = ""
 //////////////////////////////
 ///           SW           ///
 //////////////////////////////
-const stockSW = "./ultraworker.js";
+const stockSW = "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/ultraworker.js";
 const swAllowedHostnames = ["localhost", "127.0.0.1"];
 
 /**
@@ -43,16 +43,16 @@ async function registerSW() {
 
 	await navigator.serviceWorker.register(stockSW);
 }
-await import("./violet/violet.bundle.js");
-await import("./violet/violet.config.js");
+await import("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/violet/violet.bundle.js");
+await import("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/violet/violet.config.js");
 
-await import("./scram/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js");
+await import("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/scram/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js");
 const { ScramjetController } = window.$scramjetLoadController();
 const scramjet = new ScramjetController({
 	files: {
-		wasm: "./scram/wasm.wasm",
-		all: "./scram/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js",
-		sync: "./scram/embed-partnerscripts.ACSHASH1ce21d38f84f2986b3a781f27298cfca.min.js",
+		wasm: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/scram/wasm.wasm",
+		all: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/scram/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js",
+		sync: "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/scram/embed-partnerscripts.ACSHASH1ce21d38f84f2986b3a781f27298cfca.min.js",
 	},
 	flags: {
 		rewriterLogs: false,
@@ -122,8 +122,8 @@ export function getWisp() {
 export async function setProxy(proxy) {
 	console.log(`lethal.js: proxy backend is ${proxy}`);
 	if (proxy === "violet") {
-		await import("./violet/violet.bundle.js");
-		await import("./violet/violet.config.js");
+		await import("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/violet/violet.bundle.js");
+		await import("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/violet/violet.config.js");
 	}
 	proxyOption = proxy;
 }
@@ -170,7 +170,7 @@ export class Tab {
 		this.frame = document.createElement("iframe");
 		this.frame.setAttribute("class", "searchframe");
 		this.frame.setAttribute("title", "P-Frame");
-		this.frame.setAttribute("src", "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/tab.html");
+		this.frame.setAttribute("src", "./tab.html");
 		this.frame.setAttribute("loading", "lazy");
 		this.frame.setAttribute("id", `frame-${tabCounter}`);
 		framesElement.appendChild(this.frame);
