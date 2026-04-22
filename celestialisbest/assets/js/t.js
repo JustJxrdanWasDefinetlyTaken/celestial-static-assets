@@ -13,7 +13,7 @@ fetch("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-
         var card = document.createElement("div");
         card.className = "card";
         card.onclick = () =>
-            location.href = `https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/tab.html?autofill=${encodeURIComponent(g.url)}`;
+            location.href = `/celestialisbest/tab.html?autofill=${encodeURIComponent(g.url)}`;
         card.innerHTML = `<div class="thumb" style="background-image:url('${g.img || "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/placeholder.png"}')"></div><p>${g.name}</p>`;
         grid.appendChild(card);
       });

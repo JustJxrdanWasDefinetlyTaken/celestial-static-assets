@@ -43,8 +43,8 @@ function showGames(list) {
         ? rngGame()
         : (location.href =
             g.source === "local"
-              ? g.url
-              : `https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/tab.html?autofill=${encodeURIComponent(g.url)}`);
+              ? `/celestialisbest/tab.html?autofill=https://celestial.press${encodeURIComponent(g.url)}`
+              : `/tab.html?autofill=${encodeURIComponent(g.url)}`);
     card.innerHTML = cardHTML;
     grid.appendChild(card);
 

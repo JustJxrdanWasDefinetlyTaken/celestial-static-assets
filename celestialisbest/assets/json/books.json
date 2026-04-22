@@ -3,7 +3,7 @@
 		"name": "Deltarune",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/deltarune.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/deltarune/index.html#deltarune",
+		"url": "/celestialisbest/assets/src/deltarune/index.html#deltarune",
         "categories": ["indie", "rpg", "port"],
         "source": "local" 
 	},
@@ -11,7 +11,7 @@
 		"name": "Roblox",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/boringasslogo.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/rblx-menu/index.html#roblox",
+		"url": "/celestialisbest/assets/src/rblx-menu/index.html#roblox",
         "categories": ["2player", "sandbox"],
         "source": "local"
 	},
@@ -35,7 +35,7 @@
 		"name": "Ace Attorney",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/aceattourney.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/aa/index.html#aceattourney",
+		"url": "/celestialisbest/assets/src/aa/index.html#aceattourney",
         "categories": ["adventure", "puzzle"],
         "source": "local"
 	},
@@ -43,7 +43,7 @@
 		"name": "Bendy and the Ink Machine",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/batim.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bendih/index.html#bendy",
+		"url": "/celestialisbest/assets/src/bendih/index.html#bendy",
         "categories": ["adventure", "horror", "indie", "port"],
         "source": "local"
 	},
@@ -59,7 +59,7 @@
 		"name": "Cookie Run Kingdom",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/crk.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ngg/crk/index.html#r",
+		"url": "/celestialisbest/assets/src/ngg/crk/index.html#r",
         "categories": ["rpg"],
         "source": "local"
 	},
@@ -67,7 +67,7 @@
 		"name": "Gorilla Tag",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/gtag.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/gtag/index.html#gtag",
+		"url": "/celestialisbest/assets/src/gtag/index.html#gtag",
         "categories": ["adventure", "2player", "sandbox", "port"],
         "source": "local"
 	},
@@ -75,7 +75,7 @@
 		"name": "Arthurs Nightmare",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/an.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/arthurs-nightmare/index.html#arthurs-nightmare",
+		"url": "/celestialisbest/assets/src/arthurs-nightmare/index.html#arthurs-nightmare",
         "categories": ["horror", "port"],
         "source": "local"
 	},
@@ -83,7 +83,7 @@
 		"name": "GTA Vice City",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vicecity.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vice/index.html#vicecity",
+		"url": "/celestialisbest/assets/src/vice/index.html#vicecity",
         "categories": ["adventure", "sandbox", "port"],
         "source": "local"
 	},
@@ -91,7 +91,7 @@
 		"name": "Five Nights At Freddy's",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnaf.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnaf/1/index.html#fnaf",
+		"url": "/celestialisbest/assets/src/fnaf/1/index.html#fnaf",
         "categories": ["horror", "port"],
         "source": "local"
 	},
@@ -99,7 +99,7 @@
 		"name": "Five Nights At Freddy's 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnaf2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnaf/2/index.html#fnaf2",
+		"url": "/celestialisbest/assets/src/fnaf/2/index.html#fnaf2",
         "categories": ["horror", "port"],
         "source": "local"
 	},
@@ -107,7 +107,7 @@
 		"name": "Five Nights At Freddy's 3",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnaf3.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnaf/3/index.html#fnaf3",
+		"url": "/celestialisbest/assets/src/fnaf/3/index.html#fnaf3",
         "categories": ["horror", "port"],
         "source": "local"
 	},
@@ -115,7 +115,7 @@
         "name": "Five Nights At Freddy's 4",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnaf4.png",
         "type": "regular",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnaf/4/index.html#fnaf4",
+        "url": "/celestialisbest/assets/src/fnaf/4/index.html#fnaf4",
         "categories": ["horror", "port"],
         "source": "local"
     },
@@ -123,7 +123,7 @@
         "name": "Five Nights At Freddy's Sister Location",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnafsl.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnaf/sl/index.html#fnafsl",
+        "url": "/celestialisbest/assets/src/fnaf/sl/index.html#fnafsl",
         "categories": ["horror", "port"],
         "source": "local"
     },
@@ -131,7 +131,7 @@
         "name": "Five Nights At Freddy's World",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnafworld.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnaf/world/index.html#fnafworld",
+        "url": "/celestialisbest/assets/src/fnaf/world/index.html#fnafworld",
         "categories": ["horror", "port"],
         "source": "local"
     },
@@ -139,7 +139,7 @@
         "name": "Five Nights At Epstein's",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnae.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnae/index.html#fnae",
+        "url": "/celestialisbest/assets/src/fnae/index.html#fnae",
         "categories": ["horror", "port"],
         "source": "local"
     },
@@ -147,7 +147,7 @@
         "name": "Five Nights At Winstons",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnaw.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnaw/index.html#fnaw",
+        "url": "/celestialisbest/assets/src/fnaw/index.html#fnaw",
         "categories": ["horror", "port"],
         "source": "local"
     },
@@ -155,7 +155,7 @@
         "name": "Five Nights at Freddy's Ultimate Custom Night",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ucn.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnaf/ucn/index.html#ucn",
+        "url": "/celestialisbest/assets/src/fnaf/ucn/index.html#ucn",
         "categories": ["horror", "port"],
         "source": "local"
     },
@@ -163,7 +163,7 @@
         "name": "Five Nights At Freddy's Pizzeria Simulator",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnafpizza.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnaf/pizza/index.html#fnafpizza",
+        "url": "/celestialisbest/assets/src/fnaf/pizza/index.html#fnafpizza",
         "categories": ["horror", "port"],
         "source": "local"
     },
@@ -171,7 +171,7 @@
 		"name": "Football Bros",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/football-bros.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/football-bros/index.html#football-bros",
+		"url": "/celestialisbest/assets/src/football-bros/index.html#football-bros",
         "categories": ["sports"],
         "source": "local"
 	},
@@ -195,7 +195,7 @@
         "name": "Geometry-Dash Lite [OLD, BUGGY]",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/gd-lite.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/gd-lite/index.html#geometrydash",
+        "url": "/celestialisbest/assets/src/gd-lite/index.html#geometrydash",
         "categories": ["rhythm", "platformer"],
         "source": "local"
     },
@@ -203,7 +203,7 @@
         "name": "Genshin Impact",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/genshin.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ngg/genshin/index.html#genshin",
+        "url": "/celestialisbest/assets/src/ngg/genshin/index.html#genshin",
         "categories": ["rpg", "adventure"],
         "source": "local"
     },
@@ -211,7 +211,7 @@
         "name": "Hollow Knight",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/hk.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/hk/index.html#hollowknight",
+        "url": "/celestialisbest/assets/src/hk/index.html#hollowknight",
         "categories": ["adventure", "indie", "port"],
         "source": "local"
     },
@@ -219,7 +219,7 @@
         "name": "Hollow Knight Silksong",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/hks.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/hk/ss/index.html#hollowknight-silksong",
+        "url": "/celestialisbest/assets/src/hk/ss/index.html#hollowknight-silksong",
         "categories": ["adventure", "indie", "port"],
         "source": "local"
     },
@@ -227,7 +227,7 @@
         "name": "Minecraft 1.5.2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/mc152.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/mc/152/index.html#minecraft",
+        "url": "/celestialisbest/assets/src/mc/152/index.html#minecraft",
         "categories": ["sandbox", "adventure"],
         "source": "local"
     },
@@ -235,7 +235,7 @@
         "name": "Minecraft 1.8.8",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/mc188.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/mc/188/index.html#mc188",
+        "url": "/celestialisbest/assets/src/mc/188/index.html#mc188",
         "categories": ["sandbox", "adventure"],
         "source": "local"
     },
@@ -243,7 +243,7 @@
         "name": "Minecraft 1.12.2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/mc1122.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/mc/1122/index.html#mc1122",
+        "url": "/celestialisbest/assets/src/mc/1122/index.html#mc1122",
         "categories": ["sandbox", "adventure"],
         "source": "local"
     },
@@ -251,7 +251,7 @@
         "name": "Minecraft 1.21.4",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/mc1214.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/mc/1214/index.html#mc1214",
+        "url": "/celestialisbest/assets/src/mc/1214/index.html#mc1214",
         "categories": ["sandbox", "adventure"],
         "source": "local"
     },
@@ -267,7 +267,7 @@
         "name": "Slender; The Eight Pages",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/slender.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/slender/index.html#slenderman",
+        "url": "/celestialisbest/assets/src/slender/index.html#slenderman",
         "categories": ["horror", "port"],
         "source": "local"
     },
@@ -283,7 +283,7 @@
 		"name": "Basket Bros",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/basketbros.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/basket-bros/index.html#basket-bros",
+		"url": "/celestialisbest/assets/src/basket-bros/index.html#basket-bros",
         "categories": ["sports", "2player"],
         "source": "local"
 	},
@@ -291,7 +291,7 @@
 		"name": "Kart Bros",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/kart-bros.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/kart-bros/index.html#kart-bros",
+		"url": "/celestialisbest/assets/src/kart-bros/index.html#kart-bros",
         "categories": ["sports"],
         "source": "local"
 	},
@@ -299,7 +299,7 @@
 		"name": "Basket Random",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/basket-random.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/basket-random/index.html#basket-random",
+		"url": "/celestialisbest/assets/src/basket-random/index.html#basket-random",
         "categories": ["sports", "2player"],
         "source": "local"
 	},
@@ -307,7 +307,7 @@
 		"name": "Soccer Random",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/soccer-random.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/soccer-random/index.html#soccer-random",
+		"url": "/celestialisbest/assets/src/soccer-random/index.html#soccer-random",
         "categories": ["sports", "2player"],
         "source": "local"
 	},
@@ -315,7 +315,7 @@
 		"name": "Boxing Random",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/boxing-random.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/boxing-random/index.html#boxing-random",
+		"url": "/celestialisbest/assets/src/boxing-random/index.html#boxing-random",
         "categories": ["sports", "2player"],
         "source": "local"
 	},
@@ -323,7 +323,7 @@
 		"name": "Volley Random",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/volley-random.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/volley-random/index.html#volley-random",
+		"url": "/celestialisbest/assets/src/volley-random/index.html#volley-random",
         "categories": ["sports", "2player"],
         "source": "local"
 	},
@@ -347,7 +347,7 @@
         "name": "The Legend of Zelda: Ocarina of Time",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/oot.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/emulated/n64/zelda/oot/index.html#oot",
+        "url": "/celestialisbest/assets/src/emulated/n64/zelda/oot/index.html#oot",
         "categories": ["adventure", "rpg"],
         "source": "local"
     },
@@ -355,7 +355,7 @@
         "name": "The Legend of Zelda: Majora's Mask",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/mm.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/emulated/n64/zelda/mm/index.html#mm",
+        "url": "/celestialisbest/assets/src/emulated/n64/zelda/mm/index.html#mm",
         "categories": ["adventure", "rpg"],
         "source": "local"
     },
@@ -363,7 +363,7 @@
         "name": "A Dance Of Fire and Ice",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/adofai.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/adofai/index.html#adofai",
+        "url": "/celestialisbest/assets/src/adofai/index.html#adofai",
         "categories": ["rhythm", "indie"],
         "source": "local"
     },
@@ -379,7 +379,7 @@
         "name": "The Legend of Zelda: Breath of the Wild",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/botw.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/emulated/n64/zelda/botw/index.html#botw",
+        "url": "/celestialisbest/assets/src/emulated/n64/zelda/botw/index.html#botw",
         "categories": ["adventure", "rpg"],
         "source": "local"
     },
@@ -387,7 +387,7 @@
 		"name": "Untitled Goose Game",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ugg.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ugg/index.html#ugg",
+		"url": "/celestialisbest/assets/src/ugg/index.html#ugg",
         "categories": ["puzzle", "indie"],
         "source": "local"
 	},
@@ -395,7 +395,7 @@
         "name": "The Legend of Zelda: Link's Awakening",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/la.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/emulated/n64/zelda/la/index.html#la",
+        "url": "/celestialisbest/assets/src/emulated/n64/zelda/la/index.html#la",
         "categories": ["adventure", "rpg"],
         "source": "local"
     },
@@ -403,7 +403,7 @@
         "name": "The Legend of Zelda: A Link to the Past",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/altp.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/emulated/n64/zelda/altp/index.html#altp",
+        "url": "/celestialisbest/assets/src/emulated/n64/zelda/altp/index.html#altp",
         "categories": ["adventure"],
         "source": "local"
     },
@@ -411,7 +411,7 @@
 		"name": "Clover Pit",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/clover-pit.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/clover-pit/index.html#clover-pit",
+		"url": "/celestialisbest/assets/src/clover-pit/index.html#clover-pit",
         "categories": ["puzzle", "horror"],
         "source": "local"
 	},
@@ -419,7 +419,7 @@
         "name": "The Legend of Zelda: Phantom Hourglass",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ph.png",
         "type": "regular",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/emulated/n64/zelda/ph/index.html#ph",
+        "url": "/celestialisbest/assets/src/emulated/n64/zelda/ph/index.html#ph",
         "categories": ["adventure", "rpg"],
         "source": "local"
     },
@@ -427,7 +427,7 @@
         "name": "The Legend of Zelda: Spirit Tracks",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/st.png",
         "type": "regular",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/emulated/n64/zelda/st/index.html#st",
+        "url": "/celestialisbest/assets/src/emulated/n64/zelda/st/index.html#st",
         "categories": ["adventure", "rpg"],
         "source": "local"
     },
@@ -443,7 +443,7 @@
         "name": "Iron Lung",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/iron-lung.png",
         "type": "exclusive",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/iron-lung/index.html#iron-lung",
+        "url": "/celestialisbest/assets/src/iron-lung/index.html#iron-lung",
         "categories": ["horror"],
         "source": "local"
     },
@@ -459,7 +459,7 @@
 		"name": "Baldi's Basics",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/baldis-basics.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/baldi/index.html#baldis-basics",
+		"url": "/celestialisbest/assets/src/baldi/index.html#baldis-basics",
         "categories": ["puzzle", "indie", "port"],
         "source": "local"
 	},
@@ -467,7 +467,7 @@
 		"name": "Baldi's Basics Field Trip",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/baldis-basics-field-trip.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/baldi/camping/index.html#baldis-basics-field-trip",
+		"url": "/celestialisbest/assets/src/baldi/camping/index.html#baldis-basics-field-trip",
         "categories": ["puzzle", "indie", "port"],
         "source": "local"
 	},
@@ -475,7 +475,7 @@
 		"name": "Baldi's Basics Plus",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/baldi-plus.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/baldi/plus/index.html#baldis-plus",
+		"url": "/celestialisbest/assets/src/baldi/plus/index.html#baldis-plus",
         "categories": ["puzzle", "indie", "port"],
         "source": "local"
 	},
@@ -483,7 +483,7 @@
 		"name": "Baldi's Basics; The Ultra Decompile",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/baldi-tud.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/baldi/tud/index.html#baldis-ultra-decompile",
+		"url": "/celestialisbest/assets/src/baldi/tud/index.html#baldis-ultra-decompile",
         "categories": ["puzzle", "indie", "port"],
         "source": "local"
 	},
@@ -491,7 +491,7 @@
 		"name": "Baldi's Basics; Remastered",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/baldi-remastered.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/baldi/remastered/index.html#baldis-basics-remastered",
+		"url": "/celestialisbest/assets/src/baldi/remastered/index.html#baldis-basics-remastered",
         "categories": ["puzzle", "indie", "port"],
         "source": "local"
 	},
@@ -499,7 +499,7 @@
 		"name": "Baldi's Fun New School Ultimate",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/baldi-fnsu.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/baldi/fnsu/index.html#baldis-fun-new-school-ultimate",
+		"url": "/celestialisbest/assets/src/baldi/fnsu/index.html#baldis-fun-new-school-ultimate",
         "categories": ["puzzle", "indie", "port"],
         "source": "local"
 	},
@@ -507,7 +507,7 @@
 		"name": "Buckshot Roulette",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/buckshot-roulette.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/buckshot-roulette/index.html#buckshot-roulette",
+		"url": "/celestialisbest/assets/src/buckshot-roulette/index.html#buckshot-roulette",
         "categories": ["puzzle", "indie"],
         "source": "local"
 	},
@@ -515,7 +515,7 @@
 		"name": "Bowmasters",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bowmasters.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bowmasters/index.html#bowmasters",
+		"url": "/celestialisbest/assets/src/bowmasters/index.html#bowmasters",
         "categories": ["2player", "port"],
         "source": "local"
 	},
@@ -523,7 +523,7 @@
 		"name": "Bouncemasters",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bouncemasters.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bouncemasters/index.html#bouncemasters",
+		"url": "/celestialisbest/assets/src/bouncemasters/index.html#bouncemasters",
         "categories": ["other", "port", "platformer"],
         "source": "local"
 	},
@@ -531,7 +531,7 @@
 		"name": "Bloodmoney",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bloodmoney.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bloodmoney/index.html#bloodmoney",
+		"url": "/celestialisbest/assets/src/bloodmoney/index.html#bloodmoney",
         "categories": ["adventure", "indie", "port"],
         "source": "local"
 	},
@@ -539,7 +539,7 @@
 		"name": "Bergentruck 201x",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bergentruck-201x.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bergentruck/index.html#bergentruck-201x",
+		"url": "/celestialisbest/assets/src/bergentruck/index.html#bergentruck-201x",
         "categories": ["adventure", "indie", "port"],
         "source": "local"
 	},
@@ -571,7 +571,7 @@
 		"name": "Class of '09 Demo",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/class-of-09-demo.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/class-of-09-demo/index.html#class-of-09-demo",
+		"url": "/celestialisbest/assets/src/class-of-09-demo/index.html#class-of-09-demo",
         "categories": ["other", "indie", "port"],
         "source": "local"
 	},
@@ -579,7 +579,7 @@
 		"name": "Cuphead",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/cuphead.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/cuphead/index.html#cuphead",
+		"url": "/celestialisbest/assets/src/cuphead/index.html#cuphead",
         "categories": ["adventure", "indie", "port"],
         "source": "local"
 	},
@@ -595,7 +595,7 @@
 		"name": "Celeste 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/celeste-2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/celeste-2/index.html#celeste-2",
+		"url": "/celestialisbest/assets/src/celeste-2/index.html#celeste-2",
         "categories": ["platformer", "indie", "port"],
         "source": "local"
 	},
@@ -603,7 +603,7 @@
 		"name": "Doki Doki Literature Club",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ddlc.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/doki/index.html#doki-doki-literature-club",
+		"url": "/celestialisbest/assets/src/doki/index.html#doki-doki-literature-club",
         "categories": ["adventure", "indie", "port"],
         "source": "local"
 	},
@@ -611,7 +611,7 @@
 		"name": "Osu!",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/osu.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/osu/index.html#osu",
+		"url": "/celestialisbest/assets/src/osu/index.html#osu",
         "categories": ["rhythm", "indie", "port"],
         "source": "local"
 	},
@@ -619,7 +619,7 @@
 		"name": "Deltatraveler",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/deltatraveler.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/deltatravel/index.html#deltatraveler",
+		"url": "/celestialisbest/assets/src/deltatravel/index.html#deltatraveler",
         "categories": ["adventure", "indie", "port"],
         "source": "local"
 	},
@@ -627,7 +627,7 @@
 		"name": "Clash Of Vikings",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/cov.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/evil-clash/index.html#clash-of-vikings",
+		"url": "/celestialisbest/assets/src/evil-clash/index.html#clash-of-vikings",
         "categories": ["puzzle", "indie"],
         "source": "local"
 	},
@@ -635,7 +635,7 @@
 		"name": "Deadseat",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/deadseat.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/deadseat/index.html#deadseat",
+		"url": "/celestialisbest/assets/src/deadseat/index.html#deadseat",
         "categories": ["horror", "indie", "port"],
         "source": "local"
 	},
@@ -643,7 +643,7 @@
 		"name": "Deadplate",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/deadplate.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/deadplate/index.html#deadplate",
+		"url": "/celestialisbest/assets/src/deadplate/index.html#deadplate",
         "categories": ["horror", "indie", "port"],
         "source": "local"
 	},
@@ -651,7 +651,7 @@
 		"name": "Undertale (broken)",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ut.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ut/index.html#undertale",
+		"url": "/celestialisbest/assets/src/ut/index.html#undertale",
         "categories": ["adventure", "indie", "port", "rpg"],
         "source": "local"
 	},
@@ -659,7 +659,7 @@
 		"name": "Balatro",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/balatro.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/balatro/index.html#balatro",
+		"url": "/celestialisbest/assets/src/balatro/index.html#balatro",
         "categories": ["puzzle", "indie", "port"],
         "source": "local"
 	},
@@ -667,7 +667,7 @@
 		"name": "24/7 Chess",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/247chess.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/chess/index.html#247-chess",
+		"url": "/celestialisbest/assets/src/chess/index.html#247-chess",
         "categories": ["puzzle", "indie"],
         "source": "local"
 	},
@@ -675,7 +675,7 @@
 		"name": "24/7 Blackjack",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/247blackjack.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/blackjack/index.html#247-blackjack",
+		"url": "/celestialisbest/assets/src/blackjack/index.html#247-blackjack",
         "categories": ["puzzle", "indie"],
         "source": "local"
 	},
@@ -683,7 +683,7 @@
 		"name": "24/7 Poker",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/247poker.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/poker/index.html#247-poker",
+		"url": "/celestialisbest/assets/src/poker/index.html#247-poker",
         "categories": ["puzzle", "indie"],
         "source": "local"
 	},
@@ -707,7 +707,7 @@
 		"name": "ULTRAKILL",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ultrakill.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ultrakill/index.html#ultrakill",
+		"url": "/celestialisbest/assets/src/ultrakill/index.html#ultrakill",
         "categories": ["adventure", "indie", "port"],
         "source": "local"
 	},
@@ -715,7 +715,7 @@
 		"name": "Totally Accurate Battle Simulator (TABS)",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/tabs.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/tabs/index.html#totally-accurate-battle-simulator",
+		"url": "/celestialisbest/assets/src/tabs/index.html#totally-accurate-battle-simulator",
         "categories": ["puzzle", "indie"],
         "source": "local"
 	},
@@ -731,7 +731,7 @@
 		"name": "The Last Spartan",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/thelastspartan.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/the-last-spartan/index.html#the-last-spartan",
+		"url": "/celestialisbest/assets/src/the-last-spartan/index.html#the-last-spartan",
         "categories": ["adventure", "indie"],
         "source": "local"
 	},
@@ -763,7 +763,7 @@
 		"name": "Wrestle Bros",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/wrestlebros.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/wrestlebros/index.html#wrestle-bros",
+		"url": "/celestialisbest/assets/src/wrestlebros/index.html#wrestle-bros",
         "categories": ["2player", "sports"],
         "source": "local"
 	},
@@ -771,7 +771,7 @@
 		"name": "Web Fishing",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/webfishing.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/webfishing/index.html#web-fishing",
+		"url": "/celestialisbest/assets/src/webfishing/index.html#web-fishing",
         "categories": ["rpg", "indie", "port"],
         "source": "local"
 	},
@@ -779,7 +779,7 @@
 		"name": "Undertale Yellow",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/uty.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/uty/index.html#undertale-yellow",
+		"url": "/celestialisbest/assets/src/uty/index.html#undertale-yellow",
         "categories": ["rpg", "indie", "port"],
         "source": "local"
 	},
@@ -787,7 +787,7 @@
 		"name": "Yandere Simulator",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/yandere.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/yandere/index.html#yandere-simulator",
+		"url": "/celestialisbest/assets/src/yandere/index.html#yandere-simulator",
         "categories": ["indie", "port"],
         "source": "local"
 	},
@@ -803,7 +803,7 @@
 		"name": "Jumbo Mario",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/jumbomario.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/jumbo-mario/index.html#jumbo-mario",
+		"url": "/celestialisbest/assets/src/jumbo-mario/index.html#jumbo-mario",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -811,7 +811,7 @@
 		"name": "Shift At Midnight",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/shiftatmidnight.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/shift-at-midnight/index.html#shift-at-midnight",
+		"url": "/celestialisbest/assets/src/shift-at-midnight/index.html#shift-at-midnight",
         "categories": ["horror", "indie", "port"],
         "source": "local"
 	},
@@ -819,7 +819,7 @@
 		"name": "Super Mario 64 but with a shotgun (shotgun mario)",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/shotgun-mario.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/shotgun-mario/index.html#shotgun-mario",
+		"url": "/celestialisbest/assets/src/shotgun-mario/index.html#shotgun-mario",
         "categories": ["platformer", "indie", "shooter"],
         "source": "local"
 	},
@@ -827,7 +827,7 @@
 		"name": "Terraria",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/thebigraria.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/rraria/index.html#terraria",
+		"url": "/celestialisbest/assets/src/rraria/index.html#terraria",
         "categories": ["indie", "adventure", "sandbox", "port"],
         "source": "local"
 	},
@@ -835,7 +835,7 @@
 		"name": "Pizza Tower",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/pizzatower.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/pizza-tower/index.html#pizza-tower",
+		"url": "/celestialisbest/assets/src/pizza-tower/index.html#pizza-tower",
         "categories": ["indie", "platformer", "port"],
         "source": "local"
 	},
@@ -843,7 +843,7 @@
 		"name": "Pizza Tower; Scoutdigo",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/pizzatowerscoutdigo.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/pizza-tower/scoutdigo/index.html#pizza-tower-scoutdigo",
+		"url": "/celestialisbest/assets/src/pizza-tower/scoutdigo/index.html#pizza-tower-scoutdigo",
         "categories": ["indie", "platformer", "port"],
         "source": "local"
 	},
@@ -851,7 +851,7 @@
 		"name": "Basketball Stars",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/basketballstars.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/basketball-stars/index.html#basketball-stars",
+		"url": "/celestialisbest/assets/src/basketball-stars/index.html#basketball-stars",
         "categories": ["sports", "indie", "2player"],
         "source": "local"
 	},
@@ -859,7 +859,7 @@
 		"name": "Football Legends",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/footballlegends.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/football-stars/index.html#football-legends",
+		"url": "/celestialisbest/assets/src/football-stars/index.html#football-legends",
         "categories": ["sports", "indie", "2player"],
         "source": "local"
 	},
@@ -867,7 +867,7 @@
 		"name": "Basketball Legends 2020",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/basketballlegends.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/basketball-legends/index.html#basketball-legends",
+		"url": "/celestialisbest/assets/src/basketball-legends/index.html#basketball-legends",
         "categories": ["sports", "indie", "2player"],
         "source": "local"
 	},
@@ -875,7 +875,7 @@
 		"name": "Beach Boxing Simulator",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bbs.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bbs/index.html#beach-boxing-simulator",
+		"url": "/celestialisbest/assets/src/bbs/index.html#beach-boxing-simulator",
         "categories": ["sports", "indie"],
         "source": "local"
 	},
@@ -883,7 +883,7 @@
 		"name": "Battle Karts",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bk.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bk/index.html#battle-karts",
+		"url": "/celestialisbest/assets/src/bk/index.html#battle-karts",
         "categories": ["sports", "indie"],
         "source": "local"
 	},
@@ -891,7 +891,7 @@
 		"name": "Basketball Superstars",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/b-bs.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/basketball-superstars/index.html#basketball-superstars",
+		"url": "/celestialisbest/assets/src/basketball-superstars/index.html#basketball-superstars",
         "categories": ["sports", "indie"],
         "source": "local"
 	},
@@ -899,7 +899,7 @@
 		"name": "Smash Karts",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/sk.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/smash-karts/index.html#smash-karts",
+		"url": "/celestialisbest/assets/src/smash-karts/index.html#smash-karts",
         "categories": ["sports", "indie"],
         "source": "local"
 	},
@@ -915,7 +915,7 @@
 		"name": "Granny",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/granny.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/granny/index.html#granny",
+		"url": "/celestialisbest/assets/src/granny/index.html#granny",
         "categories": ["horror", "indie"],
         "source": "local"
 	},
@@ -923,7 +923,7 @@
 		"name": "Granny 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/granny2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/granny/2/index.html#granny-2",
+		"url": "/celestialisbest/assets/src/granny/2/index.html#granny-2",
         "categories": ["horror", "indie"],
         "source": "local"
 	},
@@ -931,7 +931,7 @@
 		"name": "Granny 3",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/granny3.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/granny/3/index.html#granny-3",
+		"url": "/celestialisbest/assets/src/granny/3/index.html#granny-3",
         "categories": ["horror", "indie"],
         "source": "local"
 	},
@@ -939,7 +939,7 @@
 		"name": "Moto X3M",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/motox3m.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/moto-x3m/index.html#moto-x3m",
+		"url": "/celestialisbest/assets/src/moto-x3m/index.html#moto-x3m",
         "categories": ["adventure", "indie"],
         "source": "local"
 	},
@@ -947,7 +947,7 @@
 		"name": "Moto X3M 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/motox3m2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/moto-x3m/2/index.html#moto-x3m-2",
+		"url": "/celestialisbest/assets/src/moto-x3m/2/index.html#moto-x3m-2",
         "categories": ["adventure", "indie"],
         "source": "local"
 	},
@@ -955,7 +955,7 @@
 		"name": "Moto X3M 3",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/motox3m3.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/moto-x3m/3/index.html#moto-x3m-3",
+		"url": "/celestialisbest/assets/src/moto-x3m/3/index.html#moto-x3m-3",
         "categories": ["adventure", "indie"],
         "source": "local"
 	},
@@ -963,7 +963,7 @@
 		"name": "Moto X3M; Pool Party",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/motox3m-pool-party.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/moto-x3m/pool-party/index.html#moto-x3m-pool-party",
+		"url": "/celestialisbest/assets/src/moto-x3m/pool-party/index.html#moto-x3m-pool-party",
         "categories": ["adventure", "indie"],
         "source": "local"
 	},
@@ -971,7 +971,7 @@
 		"name": "Moto X3M; Spooky Land",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/motox3m-spooky-land.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/moto-x3m/spooky-land/index.html#moto-x3m-spooky-land",
+		"url": "/celestialisbest/assets/src/moto-x3m/spooky-land/index.html#moto-x3m-spooky-land",
         "categories": ["adventure", "indie"],
         "source": "local"
 	},
@@ -979,7 +979,7 @@
 		"name": "Vex X3M",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vexx3m.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/x3m/index.html#vex-x3m",
+		"url": "/celestialisbest/assets/src/vex/x3m/index.html#vex-x3m",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -987,7 +987,7 @@
 		"name": "Vex X3M 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vexx3m2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/x3m/2/index.html#vex-x3m-2",
+		"url": "/celestialisbest/assets/src/vex/x3m/2/index.html#vex-x3m-2",
         "categories": ["puzzle", "indie"],
         "source": "local"
 	},
@@ -995,7 +995,7 @@
 		"name": "Vex",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vex.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/index.html#vex",
+		"url": "/celestialisbest/assets/src/vex/index.html#vex",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -1003,7 +1003,7 @@
 		"name": "Vex 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vex2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/2/index.html#vex-2",
+		"url": "/celestialisbest/assets/src/vex/2/index.html#vex-2",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -1011,7 +1011,7 @@
 		"name": "Vex 3",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vex3.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/3/index.html#vex-3",
+		"url": "/celestialisbest/assets/src/vex/3/index.html#vex-3",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -1019,7 +1019,7 @@
 		"name": "Vex 4",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vex4.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/4/index.html#vex-4",
+		"url": "/celestialisbest/assets/src/vex/4/index.html#vex-4",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -1027,7 +1027,7 @@
 		"name": "Vex 5",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vex5.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/5/index.html#vex-5",
+		"url": "/celestialisbest/assets/src/vex/5/index.html#vex-5",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -1035,7 +1035,7 @@
 		"name": "Vex 6",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vex6.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/6/index.html#vex-6",
+		"url": "/celestialisbest/assets/src/vex/6/index.html#vex-6",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -1043,7 +1043,7 @@
 		"name": "Vex 7",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vex7.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/7/index.html#vex-7",
+		"url": "/celestialisbest/assets/src/vex/7/index.html#vex-7",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -1051,7 +1051,7 @@
         "name": "Vex 8",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/vex8.png",
         "type": "regular",
-        "url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/vex/8/index.html#vex-8",
+        "url": "/celestialisbest/assets/src/vex/8/index.html#vex-8",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -1067,7 +1067,7 @@
 		"name": "Big Shot Boxing",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/big-shot-boxing.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/big-shot-boxing/index.html#big-shot-boxing",
+		"url": "/celestialisbest/assets/src/big-shot-boxing/index.html#big-shot-boxing",
         "categories": ["sports"],
         "source": "local"
 	},
@@ -1075,7 +1075,7 @@
 		"name": "Idle Breakout",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/idle-breakout.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/idle-breakout/index.html#idle-breakout",
+		"url": "/celestialisbest/assets/src/idle-breakout/index.html#idle-breakout",
         "categories": ["puzzle"],
         "source": "local"
 	},
@@ -1083,7 +1083,7 @@
 		"name": "BFDIA 5b",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bfdia.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bdfia-fb/index.html#BFDIA-5b",
+		"url": "/celestialisbest/assets/src/bdfia-fb/index.html#BFDIA-5b",
         "categories": ["rpg", "indie", "port", "platformer"],
         "source": "local"
 	},
@@ -1091,7 +1091,7 @@
 		"name": "R.E.P.O (REPO)",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/repo.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/repo/index.html#REPO",
+		"url": "/celestialisbest/assets/src/repo/index.html#REPO",
         "categories": ["horror", "indie"],
         "source": "local"
 	},
@@ -1107,7 +1107,7 @@
 		"name": "Big Tower Tiny Square 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/btts2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/btts/2/index.html#big-town-tiny-square",
+		"url": "/celestialisbest/assets/src/btts/2/index.html#big-town-tiny-square",
         "categories": ["platformer"],
         "source": "local"
 	},
@@ -1123,7 +1123,7 @@
 		"name": "Slope",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/slope.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/slope/index.html#slope",
+		"url": "/celestialisbest/assets/src/slope/index.html#slope",
         "categories": ["platformer"],
         "source": "local"
 	},
@@ -1131,7 +1131,7 @@
 		"name": "Madden NFL 24",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/madden24.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ngg/madden/index.html#r",
+		"url": "/celestialisbest/assets/src/ngg/madden/index.html#r",
         "categories": ["sports"],
         "source": "local"
 	},
@@ -1139,7 +1139,7 @@
 		"name": "Plants Vs Zombies",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/pvz.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/pvz/index.html#plants-vs-zombies",
+		"url": "/celestialisbest/assets/src/pvz/index.html#plants-vs-zombies",
         "categories": ["rpg", "indie", "port"],
         "source": "local"
 	},
@@ -1155,7 +1155,7 @@
 		"name": "Drive Mad",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/drive-mad.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/drive-mad/index.html#drive-mad",
+		"url": "/celestialisbest/assets/src/drive-mad/index.html#drive-mad",
         "categories": ["sports", "indie", "platformer"],
         "source": "local"
 	},
@@ -1163,7 +1163,7 @@
 		"name": "Escape Road",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/escape-road.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/escape-road/index.html#escape-road",
+		"url": "/celestialisbest/assets/src/escape-road/index.html#escape-road",
         "categories": ["sports", "rpg"],
         "source": "local"
 	},
@@ -1171,7 +1171,7 @@
 		"name": "Escape Road 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/escape-road-2.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/escape-road/2/index.html#escape-road-2",
+		"url": "/celestialisbest/assets/src/escape-road/2/index.html#escape-road-2",
         "categories": ["adventure"],
         "source": "local"
 	},
@@ -1179,7 +1179,7 @@
 		"name": "Sort The Court",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/sort-the-court.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/sort-the-court/index.html#sort-the-court",
+		"url": "/celestialisbest/assets/src/sort-the-court/index.html#sort-the-court",
         "categories": ["puzzle"],
         "source": "local"
 	},
@@ -1187,7 +1187,7 @@
 		"name": "Resident Evil 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/resident-evil-2.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/resident-evil-2/index.html#resident-evil-2",
+		"url": "/celestialisbest/assets/src/resident-evil-2/index.html#resident-evil-2",
         "categories": ["horror", "port"],
         "source": "local"
 	},
@@ -1195,7 +1195,7 @@
 		"name": "Supreme Duelist",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/supreme-duelist.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/supreme-duelist/index.html#supreme-duelist",
+		"url": "/celestialisbest/assets/src/supreme-duelist/index.html#supreme-duelist",
         "categories": ["rpg", "indie", "2player"],
         "source": "local"
 	},
@@ -1203,7 +1203,7 @@
 		"name": "Cookie Clicker",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/cookie-clicker.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/cookie-clicker/index.html#cookie-clicker",
+		"url": "/celestialisbest/assets/src/cookie-clicker/index.html#cookie-clicker",
         "categories": ["other", "puzzle"],
         "source": "local"
 	},
@@ -1211,7 +1211,7 @@
 		"name": "Survivor.io",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/survivor-io.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/survivor-io/index.html#survivor-io",
+		"url": "/celestialisbest/assets/src/survivor-io/index.html#survivor-io",
         "categories": ["2player"],
         "source": "local"
 	},
@@ -1219,7 +1219,7 @@
 		"name": "Brotato",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/brotato.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/brotato/index.html#brotato",
+		"url": "/celestialisbest/assets/src/brotato/index.html#brotato",
         "categories": ["2player", "port"],
         "source": "local"
 	},
@@ -1227,7 +1227,7 @@
 		"name": "Midnight Shift",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/midnight-shift.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/midnight-shift/index.html#midnight-shift",
+		"url": "/celestialisbest/assets/src/midnight-shift/index.html#midnight-shift",
         "categories": ["horror", "port"],
         "source": "local"
 	},
@@ -1235,7 +1235,7 @@
 		"name": "Christmas Massacre",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/christmas-massacre.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/christmas-massacre/index.html#christmas-massacre",
+		"url": "/celestialisbest/assets/src/christmas-massacre/index.html#christmas-massacre",
         "categories": ["horror", "port"],
         "source": "local"
 	},
@@ -1243,7 +1243,7 @@
 		"name": "Polytrack",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/polytrack.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/polytrack/index.html#polytrack",
+		"url": "/celestialisbest/assets/src/polytrack/index.html#polytrack",
         "categories": ["sports"],
         "source": "local"
 	},
@@ -1267,7 +1267,7 @@
 		"name": "Nazi Zombies; Portable (nzp)",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/nzp.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/nzp/index.html#nazi-zombies-portable",
+		"url": "/celestialisbest/assets/src/nzp/index.html#nazi-zombies-portable",
         "categories": ["rpg", "horror", "port", "shooter"],
         "source": "local"
 	},
@@ -1275,7 +1275,7 @@
 		"name": "Oneshot [LEGACY]",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/oneshot.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/oneshot/index.html#oneshot",
+		"url": "/celestialisbest/assets/src/oneshot/index.html#oneshot",
         "categories": ["rpg", "port", "indie"],
         "source": "local"
 	},
@@ -1283,7 +1283,7 @@
 		"name": "Retro Bowl",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/rb.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/retro-bowl/index.html#retro-bowl",
+		"url": "/celestialisbest/assets/src/retro-bowl/index.html#retro-bowl",
         "categories": ["indie", "sports"],
         "source": "local"
 	},
@@ -1291,7 +1291,7 @@
 		"name": "Retro Bowl College",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/rbc.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/retro-bowl/college/index.html#retro-bowl-college",
+		"url": "/celestialisbest/assets/src/retro-bowl/college/index.html#retro-bowl-college",
         "categories": ["sports", "indie"],
         "source": "local"
 	},
@@ -1299,7 +1299,7 @@
 		"name": "Jojo's Bizzare Adventure",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/jjba.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/jojoba/index.html#jjba",
+		"url": "/celestialisbest/assets/src/jojoba/index.html#jjba",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1307,7 +1307,7 @@
 		"name": "OvO",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ovo.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ovo/index.html#ovo",
+		"url": "/celestialisbest/assets/src/ovo/index.html#ovo",
         "categories": ["platformer"],
         "source": "local"
 	},
@@ -1315,7 +1315,7 @@
 		"name": "Funny Shooter",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/funny-shooter.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/funny/index.html#funny-shooter",
+		"url": "/celestialisbest/assets/src/funny/index.html#funny-shooter",
         "categories": ["shooter"],
         "source": "local"
 	},
@@ -1323,7 +1323,7 @@
 		"name": "Grand Theft Auto (GTA)",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/gta.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/gta/index.html#grand-theft-auto",
+		"url": "/celestialisbest/assets/src/gta/index.html#grand-theft-auto",
         "categories": ["shooter", "rpg", "port"],
         "source": "local"
 	},
@@ -1331,7 +1331,7 @@
 		"name": "Grand Theft Auto 2 (GTA 2)",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/gta2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/gta/2/index.html#grand-theft-auto",
+		"url": "/celestialisbest/assets/src/gta/2/index.html#grand-theft-auto",
         "categories": ["shooter", "rpg", "port"],
         "source": "local"
 	},
@@ -1339,7 +1339,7 @@
 		"name": "Core Ball",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/coreball.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/core-ball/index.html#core-ball",
+		"url": "/celestialisbest/assets/src/core-ball/index.html#core-ball",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1347,7 +1347,7 @@
 		"name": "Melon Massacre",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/melon.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/melon-massacre/index.html#melon-massacre",
+		"url": "/celestialisbest/assets/src/melon-massacre/index.html#melon-massacre",
         "categories": ["shooter", "indie", "port"],
         "source": "local"
 	},
@@ -1355,7 +1355,7 @@
 		"name": "Crazy Cattle 3D",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/cc3d.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/cc3d/index.html#crazy-cattle-3d",
+		"url": "/celestialisbest/assets/src/cc3d/index.html#crazy-cattle-3d",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1363,7 +1363,7 @@
 		"name": "Happy Wheels",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/hw.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/hw/index.html#happy-wheels",
+		"url": "/celestialisbest/assets/src/hw/index.html#happy-wheels",
         "categories": ["platformer", "sandbox"],
         "source": "local"
 	},
@@ -1379,7 +1379,7 @@
 		"name": "Bad Piggies",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bp.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bad-piggies/index.html#bad-piggies",
+		"url": "/celestialisbest/assets/src/bad-piggies/index.html#bad-piggies",
         "categories": ["platformer", "port"],
         "source": "local"
 	},
@@ -1387,7 +1387,7 @@
 		"name": "Super Monkey Ball 1 and 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/smb.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/smb/index.html#super-monkey-ball",
+		"url": "/celestialisbest/assets/src/smb/index.html#super-monkey-ball",
         "categories": ["port", "platformer"],
         "source": "local"
 	},
@@ -1395,7 +1395,7 @@
 		"name": "Your Only Move Is HUSTLE (yomi hustle)",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/yomi.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/yomihustle/index.html#yomi-hustle",
+		"url": "/celestialisbest/assets/src/yomihustle/index.html#yomi-hustle",
         "categories": ["indie", "adventure", "port"],
         "source": "local"
 	},
@@ -1411,7 +1411,7 @@
 		"name": "Sonic Revert",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/sr.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/sr/index.html#sonic-revert",
+		"url": "/celestialisbest/assets/src/sr/index.html#sonic-revert",
         "categories": ["platformer", "2player"],
         "source": "local"
 	},
@@ -1419,7 +1419,7 @@
 		"name": "Rocket Soccer Derby",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/rsd.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/rsd/index.html#rocket-soccer-derby",
+		"url": "/celestialisbest/assets/src/rsd/index.html#rocket-soccer-derby",
         "categories": ["2player", "other"],
         "source": "local"
 	},
@@ -1427,7 +1427,7 @@
 		"name": "Gladihoppers",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/gladihoppers.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/gladihoppers/index.html#gladihoppers",
+		"url": "/celestialisbest/assets/src/gladihoppers/index.html#gladihoppers",
         "categories": ["2player", "adventure"],
         "source": "local"
 	},
@@ -1435,7 +1435,7 @@
 		"name": "Tag",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/tag.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/tag/index.html#tag",
+		"url": "/celestialisbest/assets/src/tag/index.html#tag",
         "categories": ["platformer", "2player"],
         "source": "local"
 	},
@@ -1443,7 +1443,7 @@
 		"name": "Tag [UPDATED]",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/tagupd.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/tag/update/index.html#tag-updated",
+		"url": "/celestialisbest/assets/src/tag/update/index.html#tag-updated",
         "categories": ["platformer", "2player"],
         "source": "local"
 	},
@@ -1451,7 +1451,7 @@
 		"name": "Kindergarten",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/kindergarten.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/kindergarten/index.html#kindergarten",
+		"url": "/celestialisbest/assets/src/kindergarten/index.html#kindergarten",
         "categories": ["adventure", "port"],
         "source": "local"
 	},
@@ -1459,7 +1459,7 @@
 		"name": "Kindergarten 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/kindergarten-2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/kindergarten/2/index.html#kindergarten-2",
+		"url": "/celestialisbest/assets/src/kindergarten/2/index.html#kindergarten-2",
         "categories": ["adventure", "port"],
         "source": "local"
 	},
@@ -1467,7 +1467,7 @@
 		"name": "Kindergarten 3",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/kindergarten-3.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/kindergarten/3/index.html#kindergarten-3",
+		"url": "/celestialisbest/assets/src/kindergarten/3/index.html#kindergarten-3",
         "categories": ["adventure", "port"],
         "source": "local"
 	},
@@ -1475,7 +1475,7 @@
 		"name": "Five Nights At Last Breath",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fnalb.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fnalb/index.html#five-nights-at-last-breath",
+		"url": "/celestialisbest/assets/src/fnalb/index.html#five-nights-at-last-breath",
         "categories": ["horror", "port"],
         "source": "local"
 	},
@@ -1483,7 +1483,7 @@
 		"name": "Jeffrey Epstein's Basics in Education and Kidnapping",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/jeieak.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ep-learn/index.html#estein",
+		"url": "/celestialisbest/assets/src/ep-learn/index.html#estein",
         "categories": ["horror", "port"],
         "source": "local"
 	},
@@ -1491,7 +1491,7 @@
 		"name": "Undertale Last Breath",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/last-breath.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/last-breath/index.html#last-breath",
+		"url": "/celestialisbest/assets/src/last-breath/index.html#last-breath",
         "categories": ["platformer", "port"],
         "source": "local"
 	},
@@ -1499,7 +1499,7 @@
 		"name": "Undertale Last Breath (PHASE 3)",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/last-breath-3.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/last-breath/phase-three/index.html#last-breath-3",
+		"url": "/celestialisbest/assets/src/last-breath/phase-three/index.html#last-breath-3",
         "categories": ["platformer", "port"],
         "source": "local"
 	},
@@ -1507,7 +1507,7 @@
 		"name": "Bad Monday Simulator",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bms.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bad-monday-sim/index.html#bad-monday-simulator",
+		"url": "/celestialisbest/assets/src/bad-monday-sim/index.html#bad-monday-simulator",
         "categories": ["platformer", "indie"],
         "source": "local"
 	},
@@ -1515,7 +1515,7 @@
 		"name": "Bad Bodyguards",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/badbody.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bad-bodyguards/index.html#bad-bodyguards",
+		"url": "/celestialisbest/assets/src/bad-bodyguards/index.html#bad-bodyguards",
         "categories": ["rpg", "indie"],
         "source": "local"
 	},
@@ -1523,7 +1523,7 @@
 		"name": "Bad Time Simulator",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bad-time-sim.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bad-time-sim/index.html#bad-time-simulator",
+		"url": "/celestialisbest/assets/src/bad-time-sim/index.html#bad-time-simulator",
         "categories": ["indie", "other"],
         "source": "local"
 	},
@@ -1531,7 +1531,7 @@
 		"name": "Resident Evil",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/re.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/re/index.html#resident-evil",
+		"url": "/celestialisbest/assets/src/re/index.html#resident-evil",
         "categories": ["horror", "other"],
         "source": "local"
 	},
@@ -1539,7 +1539,7 @@
 		"name": "Resident Evil 3",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/re3.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/re/3/index.html#resident-evil",
+		"url": "/celestialisbest/assets/src/re/3/index.html#resident-evil",
         "categories": ["horror", "other"],
         "source": "local"
 	},
@@ -1547,7 +1547,7 @@
 		"name": "Apes vs Helium",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/apes.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/apes/index.html#apes-vs-helium",
+		"url": "/celestialisbest/assets/src/apes/index.html#apes-vs-helium",
         "categories": ["shooter", "port"],
         "source": "local"
 	},
@@ -1579,7 +1579,7 @@
 		"name": "Binding Of Issac; Wrath of the Lamb",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/boiwotl.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/boi/wrath-of-the-lamb/index.html#binding-of-issac-lamb",
+		"url": "/celestialisbest/assets/src/boi/wrath-of-the-lamb/index.html#binding-of-issac-lamb",
         "categories": ["indie", "adventure", "shooter"],
         "source": "local"
 	},
@@ -1587,7 +1587,7 @@
 		"name": "Roblox 2016 [WEBBLOX]",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/webblox.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/rblx2016/index.html#roblox-port",
+		"url": "/celestialisbest/assets/src/rblx2016/index.html#roblox-port",
         "categories": ["sandbox", "port"],
         "source": "local"
 	},
@@ -1619,7 +1619,7 @@
 		"name": "Helltaker",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/helltaker.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/helltaker/index.html#helltaker",
+		"url": "/celestialisbest/assets/src/helltaker/index.html#helltaker",
         "categories": ["indie", "other", "port"],
         "source": "local"
 	},
@@ -1627,7 +1627,7 @@
 		"name": "Super Mario Bros",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/super.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/super-mario-bros/index.html#super-mario-bros",
+		"url": "/celestialisbest/assets/src/super-mario-bros/index.html#super-mario-bros",
         "categories": ["platformer"],
         "source": "local"
 	},
@@ -1691,7 +1691,7 @@
 		"name": "Paper Mario",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/paper-mario.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/paper-mario/index.html#paper-mario",
+		"url": "/celestialisbest/assets/src/paper-mario/index.html#paper-mario",
         "categories": ["rpg"],
         "source": "local"
 	},
@@ -1699,7 +1699,7 @@
 		"name": "Ragdoll Archers",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ragdoll-archers.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ragdoll-archers/index.html#ragdoll-archers",
+		"url": "/celestialisbest/assets/src/ragdoll-archers/index.html#ragdoll-archers",
         "categories": ["adventure", "indie", "2player"],
         "source": "local"
 	},
@@ -1715,7 +1715,7 @@
 		"name": "Rooftop Run",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/rooftop-run.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/rooftop-run/index.html#rooftop-run",
+		"url": "/celestialisbest/assets/src/rooftop-run/index.html#rooftop-run",
         "categories": ["platformer"],
         "source": "local"
 	},
@@ -1723,7 +1723,7 @@
 		"name": "People Playground",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/people-playground.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/people-playground/index.html#people-playground",
+		"url": "/celestialisbest/assets/src/people-playground/index.html#people-playground",
         "categories": ["platformer"],
         "source": "local"
 	},
@@ -1739,7 +1739,7 @@
 		"name": "Bitlife",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bitlife.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bitlife/index.html#bitlife",
+		"url": "/celestialisbest/assets/src/bitlife/index.html#bitlife",
         "categories": ["other", "rpg"],
         "source": "local"
 	},
@@ -1747,7 +1747,7 @@
 		"name": "Xevious",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/xevious.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/xevious/index.html#xevious",
+		"url": "/celestialisbest/assets/src/xevious/index.html#xevious",
         "categories": ["shooter"],
         "source": "local"
 	},
@@ -1755,7 +1755,7 @@
 		"name": "Super Smash Flash",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ssf.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ssf/index.html#super-smash-flash",
+		"url": "/celestialisbest/assets/src/ssf/index.html#super-smash-flash",
         "categories": ["2player"],
         "source": "local"
 	},
@@ -1763,7 +1763,7 @@
 		"name": "Super Smash Flash 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ssf2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ssf/2/index.html#super-smash-flash-2",
+		"url": "/celestialisbest/assets/src/ssf/2/index.html#super-smash-flash-2",
         "categories": ["2player"],
         "source": "local"
 	},
@@ -1771,7 +1771,7 @@
 		"name": "Smash Remix",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/smashremix.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/smash-remix/index.html#smash-remix",
+		"url": "/celestialisbest/assets/src/smash-remix/index.html#smash-remix",
         "categories": ["2player"],
         "source": "local"
 	},
@@ -1779,7 +1779,7 @@
 		"name": "Smash Remix 2.0.1x",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/smashremix2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/smash-remix/2/index.html#smash-remix-2.0.1x",
+		"url": "/celestialisbest/assets/src/smash-remix/2/index.html#smash-remix-2.0.1x",
         "categories": ["2player"],
         "source": "local"
 	},
@@ -1787,7 +1787,7 @@
 		"name": "Street Fighter",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/street-fighter.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/street-fighter/index.html#street-fighter",
+		"url": "/celestialisbest/assets/src/street-fighter/index.html#street-fighter",
         "categories": ["rpg", "2player"],
         "source": "local"
 	},
@@ -1795,7 +1795,7 @@
 		"name": "Fallout",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/fallout.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/fallout/index.html#fallout",
+		"url": "/celestialisbest/assets/src/fallout/index.html#fallout",
         "categories": ["rpg", "horror"],
         "source": "local"
 	},
@@ -1803,7 +1803,7 @@
 		"name": "Baby Sniper Vietnam",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bsv.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/babysnipervietnam/index.html#baby-sniper-vietnam",
+		"url": "/celestialisbest/assets/src/babysnipervietnam/index.html#baby-sniper-vietnam",
         "categories": ["shooter"],
         "source": "local"
 	},
@@ -1819,7 +1819,7 @@
 		"name": "Solar Smash",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/solar-smash.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/solar-smash/index.html#solar-smash",
+		"url": "/celestialisbest/assets/src/solar-smash/index.html#solar-smash",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1827,7 +1827,7 @@
 		"name": "Ironsnout",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ironsnout.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ironsnout/index.html#ironsnout",
+		"url": "/celestialisbest/assets/src/ironsnout/index.html#ironsnout",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1835,7 +1835,7 @@
 		"name": "Bacon May Die",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bacon-may-die.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bacon-may-die/index.html#bacon-may-die",
+		"url": "/celestialisbest/assets/src/bacon-may-die/index.html#bacon-may-die",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1843,7 +1843,7 @@
 		"name": "Bank Robbery",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bank-robbery.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bank-robbery/index.html#bank-robbery",
+		"url": "/celestialisbest/assets/src/bank-robbery/index.html#bank-robbery",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1851,7 +1851,7 @@
 		"name": "Bank Robbery 2",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bank-robbery2.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bank-robbery/2/index.html#bank-robbery-2",
+		"url": "/celestialisbest/assets/src/bank-robbery/2/index.html#bank-robbery-2",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1859,7 +1859,7 @@
 		"name": "Bank Robbery 3",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/bank-robbery3.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/bank-robbery/3/index.html#bank-robbery-3",
+		"url": "/celestialisbest/assets/src/bank-robbery/3/index.html#bank-robbery-3",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1867,7 +1867,7 @@
 		"name": "Ultrapool",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/ultrapool.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/ultrapool/index.html#ultrapool",
+		"url": "/celestialisbest/assets/src/ultrapool/index.html#ultrapool",
         "categories": ["puzzle", "port"],
         "source": "local"
 	},
@@ -1875,7 +1875,7 @@
 		"name": "Escape Road 3",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/escape-road-3.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/escape-road/3/index.html#escape-road-3",
+		"url": "/celestialisbest/assets/src/escape-road/3/index.html#escape-road-3",
         "categories": ["other"],
         "source": "local"
 	},
@@ -1883,7 +1883,7 @@
 		"name": "Stardew Valley",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/stardew-valley.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/stardew-valley/index.html#stardew-valley",
+		"url": "/celestialisbest/assets/src/stardew-valley/index.html#stardew-valley",
         "categories": ["rpg"],
         "source": "local"
 	},
@@ -1891,7 +1891,7 @@
 		"name": "Dumb Ways to Die",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/dwtd.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/dwtd/index.html#dumb-ways-to-die",
+		"url": "/celestialisbest/assets/src/dwtd/index.html#dumb-ways-to-die",
         "categories": ["puzzle"],
         "source": "local"
 	},
@@ -1939,7 +1939,7 @@
 		"name": "Who's Your Daddy?",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/whos-your-daddy.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/whos-your-daddy/index.html#whos-your-daddy",
+		"url": "/celestialisbest/assets/src/whos-your-daddy/index.html#whos-your-daddy",
         "categories": ["adventure", "indie"],
         "source": "local"
 	},
@@ -1947,7 +1947,7 @@
 		"name": "I Have No Mouth and I Must Scream",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/larplarplarp.png",
         "type": "exclusive",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/larp/index.html#i-have-no-mouth-and-i-must-scream",
+		"url": "/celestialisbest/assets/src/larp/index.html#i-have-no-mouth-and-i-must-scream",
         "categories": ["horror"],
         "source": "local"
 	},
@@ -1963,7 +1963,7 @@
 		"name": "Dreadhead Parkour",
         "img": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/gms/dreadhead-parkour.png",
         "type": "regular",
-		"url": "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/src/dreadhead-parkour/index.html#dreadhead-parkour",
+		"url": "/celestialisbest/assets/src/dreadhead-parkour/index.html#dreadhead-parkour",
         "categories": ["platformer"],
         "source": "local"
 	},
