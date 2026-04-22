@@ -8,8 +8,8 @@ document.write(`
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>celestial. | games</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/css/home.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/css/edugs.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/css/home.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/css/edugs.css">
   <style>
     .card {
     width:210px;
@@ -49,9 +49,9 @@ document.write(`
 
 <div class="gs"></div>
 
-<script src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/js/t.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/js/t.js"></script>
 </body>
-<script src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/js/theme.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/js/theme.js"></script>
 </html>
 `);
 document.close();

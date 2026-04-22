@@ -1,5 +1,5 @@
 // this is basically ext.mjs but the user can do it yipee!
-import { currentFrame } from "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/lithium.mjs";
+import { currentFrame } from "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/lithium.mjs";
 
 window.addExt = addExt;
 window.removeExt = removeExt;

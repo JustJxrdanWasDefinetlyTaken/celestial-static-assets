@@ -7,9 +7,9 @@ document.write(`
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/logo-blackbg.png" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/css/home.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/css/xtra.css" />
+    <link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/logo-blackbg.png" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/css/home.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/css/xtra.css" />
     <meta name="Drew's Learning Academy">
     <meta content="Drew's Learning Academy | Edison, NJ" property="og:title">
     <meta
@@ -117,14 +117,14 @@ body[theme="eww"] .gridthing {
 <h1 id="titlething" style="font-weight:700;">SLQNT IS IN THE FILES</h1>
 <div class="big-ep-list"> <!--release the files-->
 <a class="erm" href="https://gg.x.eyan.eu" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/astra.png" />
+<img src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/astra.png" />
 </a>
 </div>
 </div>
 </div>
 </div>
 </body>
-<script src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/js/theme.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/js/theme.js"></script>
 </html>
     `)
 document.close();

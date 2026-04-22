@@ -8,9 +8,9 @@ document.write(`
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/img/logo-blackbg.png" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/css/home.css" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/css/edugs.css" />
+  <link rel="shortcut icon" type="image/png" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/img/logo-blackbg.png" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/css/home.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/css/edugs.css" />
 </head>
 
 <body>

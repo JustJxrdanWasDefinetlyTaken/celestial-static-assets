@@ -1,10 +1,10 @@
 importScripts(
-  "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/violet/violet.bundle.js",
+  "https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/violet/violet.bundle.js",
 )
-importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/violet/violet.config.js")
-importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/violet/violet.sw.js")
-importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/scram/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js");
-importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@main/celestialisbest/assets/js/ww/workerware.js");
+importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/violet/violet.config.js")
+importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/violet/violet.sw.js")
+importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/scram/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js");
+importScripts("https://cdn.jsdelivr.net/gh/JustJxrdanWasDefinetlyTaken/celestial-static-assets@latest/celestialisbest/assets/js/ww/workerware.js");
 importScripts("https://raw.githubusercontent.com/titaniumnetwork-dev/Pyrus/refs/heads/main/public/marketplace/adblock/index.js");
 
 const ww = new WorkerWare();
